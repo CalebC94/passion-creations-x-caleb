@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7321415e-213e-4725-81cb-c68cd2b085de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,20 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="257" column="45" selection-start-line="257" selection-start-column="45" selection-end-line="257" selection-end-column="45" />
+              <caret line="213" column="91" lean-forward="true" selection-start-line="213" selection-start-column="91" selection-end-line="213" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13028" selection-start-line="4" selection-start-column="13028" selection-end-line="4" selection-end-column="13028" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+        <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10638" selection-start-line="4" selection-start-column="10638" selection-end-line="4" selection-end-column="10638" />
+            <state relative-caret-position="218">
+              <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -44,8 +56,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/order.html" />
-        <option value="$PROJECT_DIR$/css/agency.min.css" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/agency.min.css" />
       </list>
     </option>
   </component>
@@ -72,6 +85,11 @@
             <path>
               <item name="passion-creations-x-caleb" type="b2602c69:ProjectViewProjectNode" />
               <item name="passion-creations-x-caleb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passion-creations-x-caleb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passion-creations-x-caleb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="passion-creations-x-caleb" type="b2602c69:ProjectViewProjectNode" />
@@ -180,20 +198,6 @@
     <entry file="file://$PROJECT_DIR$/img/gallery/IMG_0539.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="67" selection-start-line="67" selection-end-line="78" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="592" column="16" lean-forward="true" selection-start-line="592" selection-start-column="16" selection-end-line="592" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/map-image.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -203,17 +207,31 @@
     <entry file="file://$PROJECT_DIR$/img/gallery/IMG_0541.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="115" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="257" column="45" selection-start-line="257" selection-start-column="45" selection-end-line="257" selection-end-column="45" />
+          <caret line="213" column="91" lean-forward="true" selection-start-line="213" selection-start-column="91" selection-end-line="213" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="10638" selection-start-line="4" selection-start-column="10638" selection-end-line="4" selection-end-column="10638" />
+          <caret line="4" column="13028" selection-start-line="4" selection-start-column="13028" selection-end-line="4" selection-end-column="13028" />
         </state>
       </provider>
     </entry>
