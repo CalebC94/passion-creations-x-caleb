@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7321415e-213e-4725-81cb-c68cd2b085de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="213" column="91" lean-forward="true" selection-start-line="213" selection-start-column="91" selection-end-line="213" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13028" selection-start-line="4" selection-start-column="13028" selection-end-line="4" selection-end-column="13028" />
+              <caret line="228" column="82" selection-start-line="228" selection-start-column="82" selection-end-line="228" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -36,8 +24,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
+            <state relative-caret-position="203">
+              <caret line="388" lean-forward="true" selection-start-line="388" selection-end-line="388" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13004" selection-start-line="4" selection-start-column="13004" selection-end-line="4" selection-end-column="13004" />
             </state>
           </provider>
         </entry>
@@ -56,9 +53,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/order.html" />
+        <option value="$PROJECT_DIR$/css/agency.min.css" />
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/agency.min.css" />
       </list>
     </option>
   </component>
@@ -161,10 +158,10 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -214,24 +211,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13004" selection-start-line="4" selection-start-column="13004" selection-end-line="4" selection-end-column="13004" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="390" column="19" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
+        <state relative-caret-position="203">
+          <caret line="388" lean-forward="true" selection-start-line="388" selection-end-line="388" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="213" column="91" lean-forward="true" selection-start-line="213" selection-start-column="91" selection-end-line="213" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13028" selection-start-line="4" selection-start-column="13028" selection-end-line="4" selection-end-column="13028" />
+          <caret line="228" column="82" selection-start-line="228" selection-start-column="82" selection-end-line="228" selection-end-column="82" />
         </state>
       </provider>
     </entry>
